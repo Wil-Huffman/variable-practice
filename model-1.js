@@ -10,3 +10,6 @@ var isHopefullyDoingThisRight = true
 //Arrays
 var favorite-days-of-the-week = [friday, saturday, sunday]
 var turingModules = [ø,1,2,3,4]
+//Objects
+var myName = "wil"
+var isGenerallyHappy = true
